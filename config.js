@@ -65,13 +65,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://gmail.com',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Keep',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://keep.google.com',
 		},
 		{
 			id: '4',
